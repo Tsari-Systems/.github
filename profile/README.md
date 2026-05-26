@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tsari.ai/icon.svg" width="72" height="72" alt="Tsari mark" />
+<img src="https://tsari.ai/mark.svg" width="72" height="72" alt="Tsari mark" />
 
 # Tsari
 
